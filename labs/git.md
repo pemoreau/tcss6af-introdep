@@ -7,14 +7,12 @@ suivre le guide [hello-world](https://guides.github.com/activities/hello-world/)
 
 suivre le guide sur [markdown](https://guides.github.com/features/mastering-markdown/)
 
-lancer github desktop et récupérer les fichiers en local
-
 ## Travail en équipe
 former des groupes de 2 (éventuellement 3 si une personne se retrouve seule) et designer un *chef*
 
 créer un projet GIT (seul le *chef* le fait)
 
-le chef ajoute 1 fichier README.md et un fichier HelloWorld.java, le commit et le push
+le chef ajoute 1 fichier README.md et un fichier Compteur.java (une classe Compteur pour le moment vide), le commit et le push
 
 le chef ajoute les autres membres de l'équipe dans le projet (settings->collaborators)
 
@@ -23,6 +21,8 @@ le chef configure le projet pour envoyer un mail à chaque push (https://help.gi
 les autres peuvent récupérer les fichiers du projet et y apporter des modifications.
 
 Dans un premier temps, les autres membres du projet modifient des fichiers différents (mettez vous d'accord, téléphonez vous ou dialoguez via google chat).
+
+L'objectif consiste à enrichir la classe compteur en y ajoutant champs et méthodes
 
 Il faut ensuite commiter ces fichiers et les pusher.
 
