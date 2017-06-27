@@ -14,5 +14,4 @@ Comprendre la notion d'héritage et l'organisation de la bibliothèque Java
 **LAB**: [Git](https://github.com/pemoreau/tcss6af-introdep/blob/master/labs/git.md)
 
 ## Introduction au langage Java
-
-
+**LAB**
