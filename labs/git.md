@@ -18,7 +18,10 @@ le chef ajoute les autres membres de l'équipe dans le projet (settings->collabo
 
 le chef configure le projet pour envoyer un mail à chaque push (https://help.github.com/articles/managing-notifications-for-pushes-to-a-repository/)
 
-les autres peuvent récupérer les fichiers du projet et y apporter des modifications.
+les autres peuvent récupérer les fichiers du projet et y apporter des modifications:
+* une méthode ```main``` qui affiche ```Hello World```
+* une méthode ```increment()``` qui ajoute 1 au compteur
+* une méthode ```toString()``` qui affiche l valeur du compteur
 
 Dans un premier temps, les autres membres du projet modifient des fichiers différents (mettez vous d'accord, téléphonez vous ou dialoguez via google chat).
 
